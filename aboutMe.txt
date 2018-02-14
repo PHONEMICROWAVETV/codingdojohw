@@ -1,4 +1,6 @@
 Name: phone
 Project Goal: All I wanted was a pepsi!
 Favorite TV Show: none
- 
+Favorite Quote:
+"The supreme art of war is to subdue the enemy without 
+fighting." - Sun Tzu 
